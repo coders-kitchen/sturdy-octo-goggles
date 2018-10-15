@@ -1,0 +1,25 @@
+{
+  "name": "sturdy-octo-goggles",
+  "version": "1.0.0",
+  "description": "super simple webserver demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "body-parser": "^1.18.3"
+  },
+  "engines": {
+    "node": "6.10.x"
+  },
+  "repository": {
+    "url": "https://github.com/coders-kitchen/sturdy-octo-goggles"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
